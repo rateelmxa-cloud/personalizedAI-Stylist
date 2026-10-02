@@ -1,0 +1,231 @@
+[
+    {
+        "name": "White linen shirt",
+        "category": "shirt",
+        "color": "white",
+        "material": "linen",
+        "formality": "smart casual",
+        "weather": [
+            "hot",
+            "warm"
+        ]
+    },
+    {
+        "name": "White jeans",
+        "category": "pants",
+        "color": "white",
+        "material": "denim",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm"
+        ]
+    },
+    {
+        "name": "Brown jeans",
+        "category": "pants",
+        "color": "brown",
+        "material": "denim",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm"
+        ]
+    },
+    {
+        "name": "Black T-shirt",
+        "category": "shirt",
+        "color": "black",
+        "material": "cotton",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm"
+        ]
+    },
+    {
+        "name": "Dark blue jeans",
+        "category": "pants",
+        "color": "dark blue",
+        "material": "denim",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm"
+        ]
+    },
+    {
+        "name": "Light blue jeans",
+        "category": "pants",
+        "color": "light blue",
+        "material": "denim",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm"
+        ]
+    },
+    {
+        "name": "Black jeans",
+        "category": "pants",
+        "color": "black",
+        "material": "denim",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm"
+        ]
+    },
+    {
+        "name": "Grey sweater",
+        "category": "sweater",
+        "color": "grey",
+        "material": "cotton",
+        "formality": "casual",
+        "weather": [
+            "mild",
+            "cool"
+        ]
+    },
+    {
+        "name": "Brown shirt",
+        "category": "shirt",
+        "color": "brown",
+        "material": "denim",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm"
+        ]
+    },
+    {
+        "name": "Black trousers",
+        "category": "pants",
+        "color": "black",
+        "material": "cotton",
+        "formality": "formal",
+        "weather": [
+            "hot",
+            "warm",
+            "mild"
+        ]
+    },
+    {
+        "name": "Pink shirt",
+        "category": "shirt",
+        "color": "pink",
+        "material": "linen",
+        "formality": "smart casual",
+        "weather": [
+            "hot",
+            "warm",
+            "mild"
+        ]
+    },
+    {
+        "name": "White dress shirt",
+        "category": "shirt",
+        "color": "white",
+        "material": "cotton",
+        "formality": "formal",
+        "weather": [
+            "mild",
+            "cool"
+        ]
+    },
+    {
+        "name": "Black dress shirt",
+        "category": "shirt",
+        "color": "black",
+        "material": "cotton",
+        "formality": "formal",
+        "weather": [
+            "mild",
+            "cool"
+        ]
+    },
+    {
+        "name": "Red dress shirt",
+        "category": "shirt",
+        "color": "red",
+        "material": "cotton",
+        "formality": "formal",
+        "weather": [
+            "mild",
+            "cool"
+        ]
+    },
+    {
+        "name": "White sneakers",
+        "category": "shoes",
+        "color": "white",
+        "material": "suede",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm",
+            "mild"
+        ]
+    },
+    {
+        "name": "Black sneakers",
+        "category": "shoes",
+        "color": "black",
+        "material": "mesh",
+        "formality": "casual",
+        "weather": [
+            "hot",
+            "warm",
+            "mild",
+            "cool"
+        ]
+    },
+    {
+        "name": "White heels",
+        "category": "shoes",
+        "color": "white",
+        "material": "leather",
+        "formality": "formal",
+        "weather": [
+            "hot",
+            "warm",
+            "cool",
+            "mild"
+        ]
+    },
+    {
+        "name": "Sports shirt",
+        "category": "shirt",
+        "color": "teal",
+        "material": "polyester",
+        "formality": "sports",
+        "weather": [
+            "hot",
+            "warm",
+            "mild"
+        ]
+    },
+    {
+        "name": "Grey pants",
+        "category": "pants",
+        "color": "grey",
+        "material": "cotton",
+        "formality": "formal",
+        "weather": [
+            "mild",
+            "cool"
+        ]
+    },
+    {
+        "name": "Black sports pants",
+        "category": "pants",
+        "color": "black",
+        "material": "polyester",
+        "formality": "sports",
+        "weather": [
+            "hot",
+            "warm",
+            "mild"
+        ]
+    }
+]
